@@ -1,0 +1,15 @@
+D:\e,yekcz\4. Familiarity with programming languages (C#)\practic\Test\bin\Debug\net6.0\Test.exe
+D:\e,yekcz\4. Familiarity with programming languages (C#)\practic\Test\bin\Debug\net6.0\Test.deps.json
+D:\e,yekcz\4. Familiarity with programming languages (C#)\practic\Test\bin\Debug\net6.0\Test.runtimeconfig.json
+D:\e,yekcz\4. Familiarity with programming languages (C#)\practic\Test\bin\Debug\net6.0\Test.dll
+D:\e,yekcz\4. Familiarity with programming languages (C#)\practic\Test\bin\Debug\net6.0\Test.pdb
+D:\e,yekcz\4. Familiarity with programming languages (C#)\practic\Test\obj\Debug\net6.0\Test.csproj.AssemblyReference.cache
+D:\e,yekcz\4. Familiarity with programming languages (C#)\practic\Test\obj\Debug\net6.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\e,yekcz\4. Familiarity with programming languages (C#)\practic\Test\obj\Debug\net6.0\Test.AssemblyInfoInputs.cache
+D:\e,yekcz\4. Familiarity with programming languages (C#)\practic\Test\obj\Debug\net6.0\Test.AssemblyInfo.cs
+D:\e,yekcz\4. Familiarity with programming languages (C#)\practic\Test\obj\Debug\net6.0\Test.csproj.CoreCompileInputs.cache
+D:\e,yekcz\4. Familiarity with programming languages (C#)\practic\Test\obj\Debug\net6.0\Test.dll
+D:\e,yekcz\4. Familiarity with programming languages (C#)\practic\Test\obj\Debug\net6.0\refint\Test.dll
+D:\e,yekcz\4. Familiarity with programming languages (C#)\practic\Test\obj\Debug\net6.0\Test.pdb
+D:\e,yekcz\4. Familiarity with programming languages (C#)\practic\Test\obj\Debug\net6.0\Test.genruntimeconfig.cache
+D:\e,yekcz\4. Familiarity with programming languages (C#)\practic\Test\obj\Debug\net6.0\ref\Test.dll

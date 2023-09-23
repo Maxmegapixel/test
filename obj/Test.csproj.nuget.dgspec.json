@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\e,yekcz\\4. Familiarity with programming languages (C#)\\practic\\Test\\Test.csproj": {}
+    "D:\\e,yekcz\\4. Familiarity with programming languages (C#)\\practic\\Test\\Test.csproj": {}
   },
   "projects": {
-    "d:\\e,yekcz\\4. Familiarity with programming languages (C#)\\practic\\Test\\Test.csproj": {
+    "D:\\e,yekcz\\4. Familiarity with programming languages (C#)\\practic\\Test\\Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\e,yekcz\\4. Familiarity with programming languages (C#)\\practic\\Test\\Test.csproj",
+        "projectUniqueName": "D:\\e,yekcz\\4. Familiarity with programming languages (C#)\\practic\\Test\\Test.csproj",
         "projectName": "Test",
-        "projectPath": "d:\\e,yekcz\\4. Familiarity with programming languages (C#)\\practic\\Test\\Test.csproj",
+        "projectPath": "D:\\e,yekcz\\4. Familiarity with programming languages (C#)\\practic\\Test\\Test.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "d:\\e,yekcz\\4. Familiarity with programming languages (C#)\\practic\\Test\\obj\\",
+        "outputPath": "D:\\e,yekcz\\4. Familiarity with programming languages (C#)\\practic\\Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
