@@ -10,7 +10,3 @@
 [“Hello”, “2”, “world”, “:-)”] → [“2”, “:-)”]   
 [“1234”, “1567”, “-2”, “computer science”] → [“-2”]    
 [“Russia”, “Denmark”, “Kazan”] → []   
-
-### Решение задач:
-1. [Сылка на GItHUB](https://github.com/Maxmegapixel/test)
-2. 
