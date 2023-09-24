@@ -16,4 +16,5 @@
 2. Блок-схема алгоритма:
 ![диаграмма](diagram.jpg)
 3. Readme.md :white_check_mark:    
-4. 
+4. Программа :white_check_mark:    
+5. Контроль версий :white_check_mark:    
