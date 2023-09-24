@@ -9,4 +9,12 @@
 *Примеры*:   
 [“Hello”, “2”, “world”, “:-)”] → [“2”, “:-)”]   
 [“1234”, “1567”, “-2”, “computer science”] → [“-2”]    
-[“Russia”, “Denmark”, “Kazan”] → []   
+
+### Решение задач:
+1. [Репозиторий на GItHUB](https://github.com/Maxmegapixel/test).
+2. Блок-схема алгоритма:
+![диаграмма](diagram.jpg)
+3. Readme.md :white_check_mark:    
+4. Программа :white_check_mark:    
+5. Контроль версий :white_check_mark:    
+
