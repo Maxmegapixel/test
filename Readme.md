@@ -15,3 +15,5 @@
 1. [Репозиторий на GItHUB](https://github.com/Maxmegapixel/test).
 2. Блок-схема алгоритма:
 ![диаграмма](diagram.jpg)
+3. Readme.md :white_check_mark:    
+4. 
